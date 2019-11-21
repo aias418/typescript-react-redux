@@ -1,0 +1,7 @@
+dist
+node_modules
+*.swp
+npm-debug.log
+src/**/*.js
+coverage
+.vscode
